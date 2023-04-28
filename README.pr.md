@@ -7,7 +7,7 @@
 Conecte-se a um banco de dados Firebird; criar tabelas; inserir ou atualizar dados; faça consultas personalizadas.  
 
   
-*Read this in other languages: [English](README_FireBird.md), [Português](README.pr.md), [Español](README.es.md)*   
+*Read this in other languages: [English](README.md), [Português](README.pr.md), [Español](README.es.md)*   
 
 
 ## Como instalar este módulo

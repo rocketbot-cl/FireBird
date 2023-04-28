@@ -7,7 +7,7 @@
 Connect to a Firebird database; create tables; insert or update data; make custom queries.  
 
   
-*Read this in other languages: [English](README_FireBird.md), [Português](README.pr.md), [Español](README.es.md)*  
+*Read this in other languages: [English](README.md), [Português](README.pr.md), [Español](README.es.md)*  
 
 
 ## How to install this module
